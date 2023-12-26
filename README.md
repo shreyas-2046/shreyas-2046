@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=shreyas-2046)
 
 <!--
 **shreyas-2046/shreyas-2046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
